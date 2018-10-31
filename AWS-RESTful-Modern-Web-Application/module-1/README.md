@@ -1,6 +1,6 @@
 # Module 1: IDE Setup and Static Website Hosting
 
-![](AWS-Modern-Web-Application/AWS-RESTful-Modern-Web-Application/images/module-1/architecture-module-1.png)
+![](AWS-RESTful-Modern-Web-Application/images/module-1/architecture-module-1.png)
 
 
 **Services used:**
