@@ -2,7 +2,6 @@
 
 ![](AWS-RESTful-Modern-Web-Application/images/module-1/architecture-module-1.png)
 
-
 **Services used:**
 * [AWS Cloud9](https://aws.amazon.com/cloud9/)
 * [Amazon Simple Storage Service (S3)](https://aws.amazon.com/s3/)
