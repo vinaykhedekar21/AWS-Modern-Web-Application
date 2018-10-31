@@ -1,0 +1,28 @@
+{
+    "LoadBalancers": [
+        {
+            "IpAddressType": "ipv4", 
+            "VpcId": "vpc-0eb1343593a3208346e", 
+            "LoadBalancerArn": "arn:aws:elasticloadbalancing:us-east-1:123456890112:loadbalancer/net/mysfits-nlb/1339af852b77f822", 
+            "State": {
+                "Code": "provisioning"
+            }, 
+            "DNSName": "mysfits-nlb-1339a3432b77f822.elb.us-east-1.amazonaws.com", 
+            "LoadBalancerName": "mysfits-nlb", 
+            "CreatedTime": "2018-10-30T16:01:37.860Z", 
+            "Scheme": "internet-facing", 
+            "Type": "network", 
+            "CanonicalHostedZoneId": "Z26RNL4JHJHJTOTI", 
+            "AvailabilityZones": [
+                {
+                    "SubnetId": "subnet-0c86a26UIU28125ec8", 
+                    "ZoneName": "us-east-1a"
+                }, 
+                {
+                    "SubnetId": "subnet-0bf198103686a7a9e", 
+                    "ZoneName": "us-east-1b"
+                }
+            ]
+        }
+    ]
+}
