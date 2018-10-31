@@ -3,7 +3,7 @@
 
 ### Application Architecture
 
-![](/images/Application-Architecture.jpg)
+![](AWS-RESTful-Modern-Web-Application/images/Application-Architecture.jpg)
 
 This application serves it's static content directly from Amazon S3, 
 ** Provides a microservice API backend deployed as a container through AWS Fargate on Amazon ECS, 
