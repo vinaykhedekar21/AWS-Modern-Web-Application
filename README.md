@@ -1,4 +1,4 @@
-# A AWS Modern REST API Web Application
+# AWS Modern REST API Web Application
 
 
 ### Application Architecture
