@@ -1,6 +1,6 @@
 # Module 2: Creating a Service with AWS Fargate
 
-![Architecture](/images/module-2/architecture-module-2.png)
+![Architecture](AWS-RESTful-Modern-Web-Application/images/module-2/architecture-module-2.png)
 
 
 **Services used:**
