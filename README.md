@@ -1,9 +1,9 @@
-# Build a Modern Application on AWS (Python)
+# A AWS Modern REST API Web Application
 
 
 ### Application Architecture
 
-![Application Architecture](/images/arch-diagram.png)
+![Application Architecture](/images/Application-Architecture.jpg)
 
 This application serves it's static content directly from Amazon S3, 
 ** Provides a microservice API backend deployed as a container through AWS Fargate on Amazon ECS, 
