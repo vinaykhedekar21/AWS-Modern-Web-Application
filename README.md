@@ -1,4 +1,4 @@
-# AWS Modern REST API Web Application
+# AWS Based Modern Web Application (REST API and Microservices)
 
 
 ### Application Architecture
